@@ -1,5 +1,5 @@
 ---
-title       : Test deck
+title       : Analyze automobile MPG in a manual and automatic model, and MPG in a 4,6,8 cylinders engines
 subtitle    : 
 author      : 
 job         : 
@@ -10,10 +10,10 @@ widgets     : []            # {mathjax, quiz, bootstrap}
 mode        : selfcontained # {standalone, draft}
 ---
 
-## Read-And-Delete
+## Description of the problem
 
-1. Edit YAML front matter
-2. Write using R Markdown
+1. Analyze MPG consumption in a manual or automatic automobile, and MPG in 4,5,6 Cylinder engines
+2. 
 3. Use an empty line followed by three dashes to separate slides!
 
 --- .class #id 
