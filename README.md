@@ -1,7 +1,7 @@
 testDeck
 ========
 
-This is a test deck for publishing a slidify document.
+This is a Dung Minh Tran for publishing a slidify document.
 
 Fork this repo.
 
